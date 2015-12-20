@@ -154,22 +154,22 @@
 
 + (UIColor *)wordPressBlue
 {
-    return [self colorWithR:0 G:135 B:190 alpha:1.0];
+    return [self colorWithR:59 G:89 B:152 alpha:1.0];
 }
 
 + (UIColor *)lightBlue
 {
-    return [self colorWithR:120 G:220 B:250 alpha:1.0];
+    return [self colorWithR:223 G:227 B:238 alpha:1.0];
 }
 
 + (UIColor *)mediumBlue
 {
-    return [self colorWithR:0 G:170 B:220 alpha:1.0];
+    return [self colorWithR:139 G:157 B:195 alpha:1.0];
 }
 
 + (UIColor *)darkBlue
 {
-    return [self colorWithR:0 G:80 B:130 alpha:1.0];
+    return [self colorWithR:59 G:89 B:152 alpha:1.0];
 }
 
 
